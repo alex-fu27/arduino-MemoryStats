@@ -1,0 +1,7 @@
+{
+  "name": "MemoryStats",
+  "keywords": "",
+  "description": "Memory Statistics for AVR-Based Arduino boards:",
+  "frameworks": "arduino",
+  "version": "1.0.0"
+}
